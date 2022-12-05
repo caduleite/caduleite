@@ -2,7 +2,7 @@
 
 - 🔭 Hoje trabalho como técnico de TI 
 - 🌱 Estudando o paradigma orientado a objetos
-- 😄 Pronouns: ele/dele
+- 😄 Pronomes: ele/dele
 
 <div align="center">
   <a href="https://caduleite">
