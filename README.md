@@ -1,4 +1,4 @@
-### Olá! Eu sou o Carlos Eduardo👋
+### Olá! Eu sou o Carlos Eduardo 👋
 
 - 🔭 Hoje trabalho como técnico de TI 
 - 🌱 Estudando o paradigma orientado a objetos
