@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Carlos Eduardo 👋  
 
 - 🔭 Hoje trabalho como técnico de TI 
-- 🌱 Estudando o paradigma orientado a objetos
+- 🌱 Aprendendo a aprender! 
 - 😄 Pronomes: ele/dele
 
 <div align="center">
