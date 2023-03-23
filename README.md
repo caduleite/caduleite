@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Carlos Eduardo 👋  
 
-- 😉 Hoje trabalho como técnico de TI 
+- 😉 Hoje trabalho como Gestor de TI 
 - 🌱 Aprendendo a aprender! 
 - 😄 Pronomes: ele/dele
 
