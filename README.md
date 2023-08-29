@@ -12,7 +12,7 @@
   
   ##
   
-  - 🤖  As tecnologias que utilizo:
+  - 📌 As tecnologias que utilizo:
   
   <div style="display: inline_block"><br>
     <img align="center" alt="cadu-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
@@ -29,6 +29,6 @@
   ##
  
 <div>  
-   ![Snake animation](https://github.com/caduleite/caduleite/blob/output/github-contribution-grid-snake.svg)
   
+   ![Snake animation](https://github.com/caduleite/caduleite/blob/output/github-contribution-grid-snake.svg)
 </div>
